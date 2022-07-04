@@ -1,7 +1,7 @@
 # Spoti-clone
 
 This is a spotify clone built using React.js.
-It allows the users to view their playlists and control music playback using a music navigation panel.
+It provides the users with a dashboard to view their currently playing song, their playlists and control music playback using a music navigation panel.
 It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It uses the [Spotify Web API](https://developer.spotify.com/documentation/web-api/) for authorization and retrieving information along with [Axios API](https://axios-http.com/docs/intro) for making requests.
 
 </br>
