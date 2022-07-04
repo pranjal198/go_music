@@ -8,7 +8,7 @@ It was bootstrapped with [Create React App](https://github.com/facebook/create-r
 ![Icon](/images/login.png)</br>
 ![Icon](/images/authorize.png)</br>
 ![Icon](/images/inapp1.png)</br>
-![Icon](/images/inapp1.png)</br>
+![Icon](/images/inapp2.png)</br>
 
 ## How to run the application
 
