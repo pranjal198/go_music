@@ -1,4 +1,5 @@
-# Spoti-clone
+# Go_music
+
 
 This is a spotify clone built using React.js.
 It provides the users with a dashboard to view their currently playing song, their playlists and control music playback using a music navigation panel.
